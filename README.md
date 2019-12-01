@@ -8,10 +8,10 @@
 ### For Hackintosh PC and Laptop
 
 #### Credit:
-- [chris1111](https://github.com/chris1111)
-- [daliansky](https://blog.daliansky.net)
-- [PMHeart](https://github.com/PMheart)
-- [ydeng](https://www.insanelymac.com/forum/profile/1724156-ydeng/)
+- [chris1111 for the Application](https://github.com/chris1111)
+- [daliansky for the patch](https://blog.daliansky.net)
+- [PMHeart for the patch](https://github.com/PMheart)
+- [ydeng for the patch](https://www.insanelymac.com/forum/profile/1724156-ydeng/)
 
 #### Follow Video ⬇︎
 
