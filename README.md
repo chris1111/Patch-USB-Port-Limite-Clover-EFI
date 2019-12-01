@@ -11,7 +11,7 @@
 - [chris1111](https://github.com/chris1111)
 - [daliansky](https://blog.daliansky.net)
 - [PMHeart](https://github.com/PMheart)
-- [Mediatek](https://www.mediatek.com)
+- [ydeng](https://www.insanelymac.com/forum/profile/1724156-ydeng/)
 
 #### Follow Video ⬇︎
 
