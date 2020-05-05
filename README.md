@@ -1,6 +1,6 @@
 # Patch USB Port Limite Clover EFI
 
-
+- Update 05 Mai 2020 adapted for 10.15.4 / 10.14.6
 
  ### Simple app Dropin for patch USB port Limite macOS Mojave and macOS Catalina
 
@@ -9,6 +9,7 @@
 
 #### Credit:
 - [chris1111 for the Application](https://github.com/chris1111)
+- [Tester JMB](https://www.hackintosh-montreal.com/u7760)
 - [daliansky for the patch](https://blog.daliansky.net)
 - [PMHeart for the patch](https://github.com/PMheart)
 - [ydeng for the patch](https://www.insanelymac.com/forum/profile/1724156-ydeng/)
