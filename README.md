@@ -13,6 +13,7 @@
 - [daliansky for the patch](https://blog.daliansky.net)
 - [PMHeart for the patch](https://github.com/PMheart)
 - [ydeng for the patch](https://www.insanelymac.com/forum/profile/1724156-ydeng/)
+- [RehabMan](https://github.com/RehabMan/OS-X-USB-Inject-All)
 
 #### Follow Video ⬇︎
 
